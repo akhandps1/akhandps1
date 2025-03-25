@@ -65,10 +65,9 @@
   <a href="https://www.instagram.com/akhandps_1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
- <a href=""https://x.com/AkhandPrat47254" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter?style=social&link=https%3A%2F%2Fx.com%2FAkhandPrat47254" height="35" alt="Twitter logo" />
+<a href="https://x.com/AkhandPrat47254" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
 </a>
-
 </div>
 
 ###
