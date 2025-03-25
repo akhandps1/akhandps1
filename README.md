@@ -65,7 +65,7 @@
   <a href="https://www.instagram.com/akhandps_1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
- <a href=""https://x.com/Akhandps_1" target="_blank">
+ <a href=""https://x.com/AkhandPrat47254" target="_blank">
   <img src="https://img.shields.io/badge/Twitter?style=social&link=https%3A%2F%2Fx.com%2FAkhandPrat47254" height="35" alt="Twitter logo" />
 </a>
 
