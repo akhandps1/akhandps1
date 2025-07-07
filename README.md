@@ -62,7 +62,10 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://leetcode.com/u/Akhandps1/" target="_blank">
+  <a href="https://leetcode.com/u/GWugqJrqcD/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" alt="Leetcode" />
+  </a>
+   <a href="https://leetcode.com/u/Akhandps1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" alt="Leetcode" />
   </a>
   <a href="https://x.com/AkhandPrat47254" target="_blank">
