@@ -61,7 +61,7 @@
 
 ## 📫 Connect with me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/GWugqJrqcD/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" alt="Leetcode" />
   </a>
@@ -80,9 +80,9 @@
   <a href="https://www.instagram.com/akhandps_1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" />
   </a>
-</p>
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
